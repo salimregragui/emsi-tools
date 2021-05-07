@@ -1,4 +1,2 @@
-# Basic Shell Script permissions.
-
-for holberton school.
+# Basic Shell Script re permissions.
 
